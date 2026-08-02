@@ -1,0 +1,3 @@
+Hello Sarthak 
+Welcome to Alfido Tech Internship.
+Python File Handling Task
